@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.env
+credentials.json
+token*.json
+bot_state.json
+.venv/
+venv/
